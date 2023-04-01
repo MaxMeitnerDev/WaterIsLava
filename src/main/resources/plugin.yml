@@ -1,0 +1,7 @@
+name: WaterIsLava
+version: '${project.version}'
+main: maxmeitner.waterislava.WaterIsLava
+api-version: 1.13
+authors: [ MaxMeitner ]
+description: The plugin was made for the first of April as a way to make fun of your players.
+website: https://discord.gg/a8yTnMWv8r
